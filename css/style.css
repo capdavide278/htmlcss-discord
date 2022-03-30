@@ -195,3 +195,45 @@ a{
 }
 
 /* footer */
+
+#container{
+    background-color: #23272a;
+    width: 100%;
+    height: 800px; 
+    padding-left: 7%;
+    padding-top: 4%;
+}
+
+#container::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+.riga5{
+    width: 20%;
+    height: 90%;
+  /*   background-color: aqua; */
+    padding-top: 3%;
+    float:left;
+}
+
+.scrittablu{
+    color:  #1d5ed8c2;
+    font-size: 25px;
+}
+
+#bandiera{
+    margin-top: 10px;
+    height: 20px;
+}
+
+.simboli, .caratteristichesimboli{
+    padding-top: 4%;
+    color: white;
+    font-size: 25px;
+}
+span{
+    margin:8px;
+}
