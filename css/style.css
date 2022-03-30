@@ -272,9 +272,9 @@ h5{
 }
 
 .btnlast{
-    background-color: #1d5ed88a;
+    background-color: #193d8065;
     margin-left: 79%;
     padding: 9px;
-    color: white;
+    color: rgba(255, 255, 255, 0.534);
     border-radius: 20px;
 }
